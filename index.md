@@ -5,7 +5,7 @@ title: "Home"
 
 # UniSim
 
-!(title.png)
+![UniSim Title](assets/images/title.png)
 
 Project Links:
 
